@@ -1,4 +1,4 @@
-# Analisis & Prediksi Timbulan Sampah di Indonesia
+# Analisis & Prediksi Timbunan Sampah di Indonesia
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/faisaldinobahtiar/analisis-prediksi-timbulan-sampah-dengan-ai)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen?logo=python)](https://www.python.org/)
@@ -10,7 +10,7 @@
 
 ## 📌 Tentang Repositori Ini
 
-Repositori ini mendokumentasikan analisis data eksploratif, pemodelan prediktif multi-algoritma (*Machine Learning*, *Deep Learning*, dan *Time Series Forecasting*) untuk estimasi timbulan sampah di Indonesia yang sebelumnya telah dipublikasikan di **Kaggle**:
+Repositori ini mendokumentasikan analisis data eksploratif, pemodelan prediktif multi-algoritma (*Machine Learning*, *Deep Learning*, dan *Time Series Forecasting*) untuk estimasi timbunan sampah di Indonesia yang sebelumnya telah dipublikasikan di **Kaggle**:
 🔗 **Kaggle Notebook**: [Analisis & Prediksi Timbulan Sampah dengan AI](https://www.kaggle.com/code/faisaldinobahtiar/analisis-prediksi-timbulan-sampah-dengan-ai)
 
 Repository ini kini diarsipkan dan dirapikan di GitHub agar dapat diakses, direproduksi, dan dimanfaatkan untuk studi kebijakan pengelolaan lingkungan hidup di Indonesia.
@@ -19,10 +19,10 @@ Repository ini kini diarsipkan dan dirapikan di GitHub agar dapat diakses, direp
 
 ## 📖 Ringkasan Proyek
 
-Masalah timbulan sampah merupakan salah satu tantangan lingkungan terbesar di Indonesia. Volume sampah harian dan tahunan yang terus meningkat di tingkat kabupaten/kota membutuhkan estimasi yang akurat guna mendukung perencanaan kapasitas Tempat Pemrosesan Akhir (TPA) dan alokasi fasilitas daur ulang.
+Masalah timbunan sampah merupakan salah satu tantangan lingkungan terbesar di Indonesia. Volume sampah harian dan tahunan yang terus meningkat di tingkat kabupaten/kota membutuhkan estimasi yang akurat guna mendukung perencanaan kapasitas Tempat Pemrosesan Akhir (TPA) dan alokasi fasilitas daur ulang.
 
 Proyek ini bertujuan untuk:
-1. **Menganalisis distribusi dan konsentrasi timbulan sampah** (harian & tahunan) di berbagai provinsi dan kabupaten/kota di Indonesia.
+1. **Menganalisis distribusi dan konsentrasi timbunan sampah** (harian & tahunan) di berbagai provinsi dan kabupaten/kota di Indonesia.
 2. **Melakukan segmentasi wilayah (*Clustering Analysis*)** menggunakan **K-Means** untuk mengelompokkan daerah dengan karakteristik produksi sampah serupa.
 3. **Membangun dan membandingkan berbagai arsitektur model AI/ML**:
    - Linear Regression & Polynomial Features
