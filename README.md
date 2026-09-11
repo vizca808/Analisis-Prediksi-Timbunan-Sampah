@@ -1,4 +1,4 @@
-# Analisis & Prediksi Timbulan Sampah di Indonesia dengan AI
+# Analisis & Prediksi Timbulan Sampah di Indonesia
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/faisaldinobahtiar/analisis-prediksi-timbulan-sampah-dengan-ai)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen?logo=python)](https://www.python.org/)
