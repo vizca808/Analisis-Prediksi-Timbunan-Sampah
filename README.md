@@ -105,7 +105,7 @@ Performa setiap model dievaluasi secara komprehensif menggunakan metrik:
 ## 📁 Struktur Repositori
 
 ```text
-analisis-prediksi-timbulan-sampah-ai/
+Analisis-Prediksi-Timbunan-Sampah/
 │
 ├── data/
 │   └── Data_Timbulan_Sampah_SIPSN_KLHK.xlsx              # Dataset resmi SIPSN KLHK
@@ -122,8 +122,8 @@ analisis-prediksi-timbulan-sampah-ai/
 
 ### 1. Clone Repositori
 ```bash
-git clone https://github.com/vizca808/analisis-prediksi-timbulan-sampah-ai.git
-cd analisis-prediksi-timbulan-sampah-ai
+git clone https://github.com/vizca808/Analisis-Prediksi-Timbunan-Sampah.git
+cd Analisis-Prediksi-Timbunan-Sampah
 ```
 
 ### 2. Setup Virtual Environment (Opsional)
